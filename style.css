@@ -112,7 +112,26 @@ h2 {
 }
 
 
+.quote-section {
+  background-color: #e5e7eb;
+  padding: 80px 200px;
+}
 
+blockquote {
+  font-size: 36px;
+  font-style: italic;
+  color: #1f2937;
+  font-weight: 300;
+  margin: 0;
+}
+
+.author {
+  text-align: right;
+  font-size: 24px;
+  font-weight: bold;
+  color: #1f2937;
+  margin-top: 10px;
+}
 
 
 
